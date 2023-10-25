@@ -9,7 +9,7 @@ function Test() {
         <div className="w-full  h-full">
          
         </div>
-        <div className="bg-grad3 w-auto lg:w-auto  p-[2px] m-2 sm:ml-11 mt   ">
+        <div className="bg-grad3 w-auto lg:w-auto  p-[2px] m-2 sm:ml-11 sm:mt-[5%] mt-2   ">
           <div className="bg-sec h-full">
             <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
             <h3 className="text-xl font-bold py-2">KiX Trade-athon starts on Friday 3rd November.</h3>
