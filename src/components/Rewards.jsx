@@ -2,7 +2,7 @@ import React from "react";
 
 function Rewards() {
   return (
-    <section className=" text-center mt-6 sm:mt-20">
+    <section className=" text-center mt-6 sm:mt-8">
       <div>
         <h1 className=" text-2xl sm:text-4xl font-extrabold text pt-10">
           TRADE-ATHON REWARDS

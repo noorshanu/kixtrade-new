@@ -5,7 +5,7 @@ import {FaTelegramPlane,FaDiscord,FaInstagram} from 'react-icons/fa'
 
 function Footer() {
   return (
-<section className=' mt-5 sm:mt-20'>
+<section className=' mt-5 sm:mt-8'>
     <div className='container-wrapper'>
         <div className=' flex flex-col sm:flex-row justify-between '>
             <img src="images/logo-about.png" alt="" className='h-[55px] sm:h-auto w-[55px] sm:w-auto sm:mx-0 mx-auto mb-6 sm:mb-0' />

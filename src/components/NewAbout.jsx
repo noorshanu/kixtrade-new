@@ -2,7 +2,7 @@ import React from 'react'
 
 function NewAbout() {
   return (
-    <section className=" mt-7 sm:mt-20">
+    <section className=" mt-6 sm:mt-8">
     <div>
       <img src="images/logo-about.png" alt="" className="mx-auto" />
     </div>
