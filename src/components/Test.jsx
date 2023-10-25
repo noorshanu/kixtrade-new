@@ -2,13 +2,13 @@ import React from "react";
 
 function Test() {
   return (
-    <section className="test-bg relative">
-      <img src="images/black-b2.png" alt="" className=" center-div2 top-[50%] z-50 h-full" />
+    <section className="test-bg relative container-wrapper">
+      <img src="images/black-b2.png" alt="" className=" center-div2 top-[50%] z-50 h-full hidden sm:block" />
       <div className="flex justify-end gap-5 items-center flex-col sm:flex-row">
         <div>
           <img src="images/test-mg.png" alt="" className="w-[100%] h-full" />
         </div>
-        <div className="bg-grad3 w-[600px] p-[2px] m-2 sm:mr-[10%]  ">
+        <div className="bg-grad3 w-auto sm:w-[600px] p-[2px] m-2 sm:mr-[10%]  ">
           <div className="bg-sec h-full">
             <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
             <h3 className="text-xl font-bold py-2">KiX Trade-athon starts on Friday 3rd November.</h3>
