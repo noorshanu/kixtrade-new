@@ -69,3 +69,12 @@ padding: 20px;
 width: 100%;
 background: rgba(41, 41, 41, 0.932);
 }
+
+@media (max-width:768px) {
+
+  .bg-grad {
+  
+
+  width:auto;
+  }
+}

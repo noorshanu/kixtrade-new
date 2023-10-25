@@ -5,12 +5,12 @@ function Getstarted() {
     <section>
       <div className="container-wrapper">
         <div className=" text-center">
-          <h1 className=" text-4xl font-extrabold ">
+          <h1 className=" text-2xl sm:text-4xl font-extrabold ">
             THERE ARE 2 WAYS TO GET STARTED
           </h1>
         </div>
 
-        <div className="flex justify-between gap-10 flex-col sm:flex-row">
+        <div className="flex justify-between gap-5  sm:gap-10 flex-col sm:flex-row">
           <div className="bg-grad p-[2px]  ">
             <div className="bg-sec h-full">
               <div>
@@ -43,7 +43,7 @@ function Getstarted() {
           </div>
         </div>
         <div>
-            <img src="images/condown.png" alt=""  className=" mx-auto"/>
+            <img src="images/condown.png" alt=""  className=" mx-auto hidden sm:block"/>
         </div>
         <div className="text-center ">
             <h2 className=" text-3xl font-extrabold uppercase"> MAKE YOUR CHOICE!</h2>
