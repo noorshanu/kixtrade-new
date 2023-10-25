@@ -4,7 +4,7 @@ function Test() {
   return (
     <section className="test-bg relative container-wrapper">
       
-      <div className="flex justify-end gap-5 items-center flex-col sm:flex-row">
+      <div className="flex  gap-5 items-center flex-col sm:flex-row">
         <div className="w-full">
           <img src="images/test-mg.png" alt="" className="w-[800px] h-full" />
         </div>
