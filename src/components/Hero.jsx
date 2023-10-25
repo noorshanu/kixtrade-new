@@ -3,9 +3,9 @@ import React from "react";
 function Hero() {
   return (
     <section className="hero">
-      <div className=" relative">
-        <img src="images/freeplay.png" alt="" className=" absolute top-[30%] left-[10%]" />
-        <img src="images/open.png" alt="" className=" absolute top-[20%] right-[10%]" />
+      <div className="container-wrapper relative">
+        <img src="images/freeplay.png" alt="" className=" absolute top-[24%] left-[5%]" />
+        <img src="images/open.png" alt="" className=" absolute top-[20%] right-[2%]" />
         <img src="images/hero-up.png" alt="" className=" mx-auto" />
         <img
           src="images/player.png"

@@ -2,7 +2,8 @@ import React from "react";
 
 function Test() {
   return (
-    <section className="test-bg">
+    <section className="test-bg relative">
+      <img src="images/black-b2.png" alt="" className=" center-div2" />
       <div className="flex justify-end gap-5 items-center flex-col sm:flex-row">
         <div>
           <img src="images/test-mg.png" alt="" className="w-[100%] h-full" />

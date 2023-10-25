@@ -109,4 +109,11 @@ background-repeat: no-repeat;
 
   width:auto;
   }
+  .test-bg{
+    background-image:none ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     
+    }
 }
