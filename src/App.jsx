@@ -26,7 +26,7 @@ function App() {
         </div>
       <Test />
 
-      <div className="py-4 sm:py-2">
+      <div className="py-7 sm:py-2">
         <Footer />
       </div>
     </>
