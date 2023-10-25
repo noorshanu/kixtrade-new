@@ -18,7 +18,7 @@ function App() {
         <Rewards />
       </div>
 
-      <div className="py-4 sm:py-2">
+      <div className="py-0 sm:py-2">
         <Getstarted />
       </div>
       <Test />

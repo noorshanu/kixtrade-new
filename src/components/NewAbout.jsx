@@ -2,12 +2,12 @@ import React from 'react'
 
 function NewAbout() {
   return (
-    <section className=" mt-6 sm:mt-8">
+    <section className=" mt-8 sm:mt-8">
     <div>
       <img src="images/logo-about.png" alt="" className="mx-auto" />
     </div>
     <div className=" text-center relative z-10">
-      <h1 className=" text-2xl sm:text-4xl font-extrabold text pt-10">KiX TRADE-ATHON</h1>
+      <h1 className=" text-2xl sm:text-4xl font-extrabold text pt-4  sm:pt-8">KiX TRADE-ATHON</h1>
 
       <p className=" text-base sm:text-[22px] font-normal sm:max-w-4xl w-[90%] sm:w-full mx-auto mt-7 ">
         KiX Trade-athon is coming soon, when YOU can claim 1000 FreeKiX game
@@ -15,7 +15,7 @@ function NewAbout() {
         World’s Most Advanced Fantasy Football Trading Exchange..
       </p>
     </div>
-    <div className=" mt-16 text-center relative z-10">
+    <div className="mt-4 sm:mt-16 text-center relative z-10">
       <img
         src="images/kick-t.png"
         alt=""
