@@ -11,7 +11,8 @@ function Getstarted() {
         </div>
 
         <div className="flex justify-between gap-5  sm:gap-10 flex-col sm:flex-row">
-          <div className="bg-grad p-[2px]  ">
+          <div className="bg-grad p-[2px] relative ">
+            <img src="images/no-1.png" alt="" className=" absolute -top-[30%] h-[150px] left-[75%]" />
             <div className="bg-sec h-full">
               <div>
                 <img src="images/logo-start.png" alt="" className="my-4" />
@@ -27,7 +28,8 @@ function Getstarted() {
               </div>
             </div>
           </div>
-          <div className="bg-grad p-[2px]">
+          <div className="bg-grad p-[2px] relative">
+          <img src="images/no-2.png" alt="" className=" absolute -top-[30%] h-[150px] left-[75%]" />
             <div className="bg-sec h-full">
               <div>
                 <img src="images/zely.svg" alt="" className="my-4" />
