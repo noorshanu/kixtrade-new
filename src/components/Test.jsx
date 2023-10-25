@@ -2,7 +2,7 @@ import React from "react";
 
 function Test() {
   return (
-    <section className=" relative container-wrapper">
+    <section className="test-bg relative container-wrapper w-full  h-full">
       
       <div className="flex test-bg  gap-5 items-center flex-col sm:flex-row h-full w-full">
         <div className="w-full  h-full">
