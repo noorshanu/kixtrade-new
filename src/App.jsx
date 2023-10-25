@@ -10,19 +10,19 @@ function App() {
   return (
     <>
       <Hero />
-      <div className="py-10">
+      <div className=" py-4 sm:py-10">
        <About/>
       </div>
-      <div className="py-10">
+      <div className="py-4 sm:py-10">
         <Rewards />
       </div>
 
-      <div className="py-10">
+      <div className="py-4 sm:py-10">
         <Getstarted />
       </div>
       <Test />
 
-      <div className="py-10">
+      <div className="py-4 sm:py-10">
         <Footer />
       </div>
     </>
