@@ -2,9 +2,10 @@ import React from "react";
 
 function Test() {
   return (
-    <section className="test-bg relative container-wrapper w-full  h-full">
+    <section className="test-bg relative  w-full  h-full">
+      <div className="container-wrapper">
       
-      <div className="flex test-bg  gap-5 items-center flex-col sm:flex-row h-full w-full">
+      <div className="flex   gap-5 items-center flex-col sm:flex-row h-full w-full">
         <div className="w-full  h-full">
          
         </div>
@@ -26,6 +27,7 @@ function Test() {
             <p className="text-[#FFC200] text-xl">Terms & Conditions</p>
           </div>
         </div>
+      </div>
       </div>
     </section>
   );
