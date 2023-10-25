@@ -5,9 +5,9 @@ function Test() {
     <section className="test-bg">
       <div className="flex justify-between items-center flex-col sm:flex-row">
         <div>
-          <img src="images/test-mg.png" alt="" className="h-[600px]" />
+          <img src="images/tet-mg.png" alt="" className="h-full" />
         </div>
-        <div className="bg-grad p-[2px] m-2 sm:mr-[9.5rem]  ">
+        <div className="bg-grad p-[2px] m-2 sm:mr-[9rem]  ">
           <div className="bg-sec h-full">
             <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
             <h3 className="text-xl font-bold py-2">KiX Trade-athon starts on Friday 3rd November.</h3>

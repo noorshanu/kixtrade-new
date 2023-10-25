@@ -78,6 +78,10 @@ width: 100%;
 background: rgba(41, 41, 41, 0.932);
 }
 .test-bg{
+ background-image: url('/public/images/test-mg.png');
+ background-repeat: no-repeat;
+ background-size: cover; 
+ background-position: center;
  
 }
 
