@@ -1,0 +1,17 @@
+import React from 'react'
+
+function Hero() {
+  return (
+    <section className='hero'>
+        <div className=' relative'>
+            <img src="images/hero-up.png" alt="" className=' mx-auto' />
+<img src="images/player.png" alt="" className=' object-cover mx-auto  center-div z-0' />
+<img src="images/100k.png" alt=""  className='mx-auto relative z-20'/>
+<img src="images/black-b.png" alt="" className='w-full absolute z-10 bottom-0' />
+        </div>
+
+    </section>
+  )
+}
+
+export default Hero

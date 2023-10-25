@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  font-family: 'Work Sans', sans-serif;
+  background-color: black;
+}
+
+.hero{
+  background-image: url('images/hero.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+background-size: cover;
+  background-color: black;
+}
+
+.center-div{
+   /* position the div in center */
+   position: absolute;
+   top: 63%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
