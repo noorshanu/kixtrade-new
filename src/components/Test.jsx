@@ -12,7 +12,7 @@ function Test() {
             <div className="bg-sec h-full relative z-20">
               <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
               <h3 className="text-xl font-bold py-2">
-                KiX Trade-athon starts on Friday 3rd November.
+                KiX Trade-athon starts on Friday 10th November.
               </h3>
               <p className=" text-sm font-semibold mb-3">
                 Entrants into the Trade-athon can join at any time before or
