@@ -11,11 +11,11 @@ function Footer() {
             <img src="images/logo-about.png" alt="" className='h-[55px] sm:h-auto w-[55px] sm:w-auto sm:mx-0 mx-auto mb-6 sm:mb-0' />
 
             <div className=' flex justify-evenly gap-5 text-center items-center'>
-                <a href="/" className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><BsTwitter className=' text-xl' /></a>
-                <a href="/" className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaTelegramPlane className=' text-xl' /></a>
-                <a href="/" className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaDiscord className=' text-xl' /></a>
-                <a href="/" className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaInstagram className=' text-xl' /></a>
-                <a href="/" className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><BsGlobe className=' text-xl' /></a>
+                <a href="http://twitter.com/kix_digital" target='_blank' className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><BsTwitter className=' text-xl' /></a>
+                <a href="http://t.me/kix_digital" target='_blank' className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaTelegramPlane className=' text-xl' /></a>
+                <a href="https://discord.gg/WxdNfuVAAp" target='_blank' className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaDiscord className=' text-xl' /></a>
+                <a href="https://instagram.com/kix_digital" target='_blank' className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><FaInstagram className=' text-xl' /></a>
+                <a href="http://kix.digital/" target='_blank' className=' border border-[#fff] hover:text-[#82067e] rounded-full py-4 px-4'><BsGlobe className=' text-xl' /></a>
             </div>
 
         </div>

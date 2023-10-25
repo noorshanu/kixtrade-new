@@ -12,42 +12,80 @@ function Getstarted() {
 
         <div className="flex justify-between gap-5  sm:gap-10 flex-col sm:flex-row">
           <div className="bg-grad p-[2px] relative ">
-            <img src="images/no-1.png" alt="" className=" absolute -top-[25%] sm:-top-[30%] h-[150px] left-[65%] sm:left-[75%]" />
+            <img
+              src="images/no-1.png"
+              alt=""
+              className=" absolute -top-[25%] sm:-top-[30%] h-[150px] left-[65%] sm:left-[75%]"
+            />
             <div className="bg-sec h-full">
               <div>
+                <a href="test.kix.digital" target="_blank"> 
                 <img src="images/logo-start.png" alt="" className="my-4" />
+                </a>
+                
 
                 <p className=" text-base font-normal">
-                  Jump straight into the <span className=" font-bold">KiX Test Platform</span> <br /> now and use our <span className=" font-bold">FAQs</span>   to join up and learn <br /> how to play. You might prefer this if you
-                  were part of our previous tests and are <br /> already registered.
+                  Jump straight into the{" "}
+                  <span className=" font-bold">KiX Test Platform</span> <br />{" "}
+                  now and use our <span className=" font-bold">FAQs</span> to
+                  join up and learn <br /> how to play. You might prefer this if
+                  you were part of our previous tests and are <br /> already
+                  registered.
                 </p>
 
                 <div className=" mt-6">
-                    <a href="/" className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end gap-2 items-center w-[220px] text-center ml-auto"> <span className="text-[#FFC200]">ENTER </span> HERE</a>
+                  <a
+                    href="/"
+                    className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end gap-2 items-center w-[220px] text-center ml-auto"
+                  >
+                    {" "}
+                    <span className="text-[#FFC200]">ENTER </span> HERE
+                  </a>
                 </div>
               </div>
             </div>
           </div>
           <div className="bg-grad p-[2px] relative">
-          <img src="images/no-2.png" alt="" className=" absolute -top-[25%] sm:-top-[30%] h-[150px] left-[65%] sm:left-[75%]" />
+            <img
+              src="images/no-2.png"
+              alt=""
+              className=" absolute -top-[25%] sm:-top-[30%] h-[150px] left-[65%] sm:left-[75%]"
+            />
             <div className="bg-sec h-full">
               <div>
+                <a href="https://zealy.io/c/kixdigital" target="_blank">
+
                 <img src="images/zely.svg" alt="" className="my-4" />
+                </a>
+               
                 <p className="text-base font-normal">
-                Use the <span className=" font-bold">KiX Zealy Quest Manager</span>  to be <br /> guided through registration AND to <span className=" font-bold">earn XP</span>  <br /> which will build YOUR chances of Winning!
+                  Use the{" "}
+                  <span className=" font-bold">KiX Zealy Quest Manager</span> to
+                  be <br /> guided through registration AND to{" "}
+                  <span className=" font-bold">earn XP</span> <br /> which will
+                  build YOUR chances of Winning!
                 </p>
 
                 <div className=" mt-14">
-                    <a href="/" className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end items-center w-[220px] gap-2 text-center ml-auto"> <span className="text-[#FFC200]">ENTER</span> HERE</a>
+                  <a
+                    href="/"
+                    className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end items-center w-[220px] gap-2 text-center ml-auto"
+                  >
+                    {" "}
+                    <span className="text-[#FFC200]">ENTER</span> HERE
+                  </a>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div>
-            <img src="images/condown.png" alt=""  className=" mx-auto hidden sm:block"/>
+          <img
+            src="images/condown.png"
+            alt=""
+            className=" mx-auto hidden sm:block"
+          />
         </div>
-        
       </div>
     </section>
   );
