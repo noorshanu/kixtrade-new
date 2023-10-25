@@ -1,7 +1,7 @@
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Rewards from "./components/Rewards"
-import About from "./components/about"
+import About from "./components/About"
 
 function App() {
 
