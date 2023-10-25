@@ -6,7 +6,7 @@ function About() {
       <div>
         <img src="images/logo-about.png" alt="" className="mx-auto" />
       </div>
-      <div className=" text-center">
+      <div className=" text-center relative z-10">
         <h1 className=" text-4xl font-extrabold text pt-10">KiX TRADE-ATHON</h1>
 
         <p className=" text-[22px] font-normal sm:max-w-4xl w-[90%] sm:w-full mx-auto mt-7 ">
@@ -15,7 +15,8 @@ function About() {
           World’s Most Advanced Fantasy Football Trading Exchange..
         </p>
       </div>
-      <div className=" mt-16 text-center relative">
+      <div className=" mt-16 text-center relative z-10">
+        <img src="images/kick-t.png" alt="" className=" absolute top-0 z-0 center-div2 " />
         <div>
         <h1 className=" text-4xl font-extrabold text pt-10">ABOUT KiX</h1>
 
