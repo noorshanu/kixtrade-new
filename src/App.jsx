@@ -4,14 +4,15 @@ import Rewards from "./components/Rewards";
 
 import Getstarted from "./components/Getstarted";
 import Test from "./components/Test";
-import About from "./components/about";
+
+import NewAbout from "./components/NewAbout";
 
 function App() {
   return (
     <>
       <Hero />
       <div className=" py-4 sm:py-10">
-       <About/>
+      <NewAbout/>
       </div>
       <div className="py-4 sm:py-10">
         <Rewards />
