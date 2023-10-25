@@ -3,8 +3,8 @@ import React from "react";
 function Test() {
   return (
     <section className="test-bg relative  w-full  h-full">
-      <img src="images/top-b.png" alt="" className=" top-0 absolute hidden sm:block" />
-      <img src="images/black-b.png" alt="" className=" bottom-0 absolute hidden sm:block" />
+      <img src="images/top-b.png" alt="" className=" top-0 absolute hidden sm:block w-full h-[200px]" />
+      <img src="images/black-b.png" alt="" className=" bottom-0 absolute hidden sm:block " />
       <div className="container-wrapper">
         <div className="flex sm:gap-5 items-center flex-col sm:flex-row h-full w-full">
           <div className="w-full  h-full"></div>
