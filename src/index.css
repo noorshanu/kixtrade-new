@@ -1,43 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-
-
 @layer base {
-
-
   .container-wrapper {
     @apply max-w-[1224px] w-[90%] mx-auto;
   }
 }
 
-body{
-  font-family: 'Work Sans', sans-serif;
+body {
+  font-family: "Work Sans", sans-serif;
   background-color: black;
   color: #fff;
 }
 
-.hero{
-  background-image: url('/public/images/hero.png');
+.hero {
+  background-image: url("/public/images/hero.png");
   background-repeat: no-repeat;
   background-position: center;
   height: 100%;
-background-size: cover;
+  background-size: cover;
   background-color: black;
 }
 
-.center-div{
-   /* position the div in center */
-   position: absolute;
-   top: 63%;
-   left: 50%;
-   transform: translate(-50%, -50%);
+.center-div {
+  /* position the div in center */
+  position: absolute;
+  top: 63%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.bg-grad{
-  background: linear-gradient(90deg, rgba(126, 0, 123, 0.44) 0.52%, rgba(95, 43, 135, 0.41) 23.2%, rgba(64, 86, 147, 0.44) 50.3%, rgba(33, 129, 159, 0.44) 73.91%, rgba(2, 172, 171, 0.44) 97.81%);
+.bg-grad {
+  background: linear-gradient(
+    90deg,
+    rgba(126, 0, 123, 0.44) 0.52%,
+    rgba(95, 43, 135, 0.41) 23.2%,
+    rgba(64, 86, 147, 0.44) 50.3%,
+    rgba(33, 129, 159, 0.44) 73.91%,
+    rgba(2, 172, 171, 0.44) 97.81%
+    
+  );
+  border-radius: 30px;
 
+  width: 500px;
+  margin-top: 4rem;
+}
 
+.bg-grad2 {
+  background: linear-gradient(
+    90deg,
+    rgba(126, 0, 123, 0.44) 0.52%,
+    rgba(95, 43, 135, 0.41) 23.2%,
+    rgba(64, 86, 147, 0.44) 50.3%,
+    rgba(33, 129, 159, 0.44) 73.91%,
+    rgba(2, 172, 171, 0.44) 97.81%
+    
+  );
+ 
+
+ border-radius: 30px;
+}
+
+.bg-sec{
+  border-radius: 30px;
+padding: 20px;
+width: 100%;
+background: rgba(41, 41, 41, 0.932);
 }

@@ -2,6 +2,7 @@ import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Rewards from "./components/Rewards"
 import About from "./components/About"
+import Getstarted from "./components/Getstarted"
 
 function App() {
 
@@ -15,6 +16,11 @@ function App() {
      </div>
      <div className="py-10">
     <Rewards/>
+
+     </div>
+
+     <div className="py-10">
+   <Getstarted/>
 
      </div>
 
