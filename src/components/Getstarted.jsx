@@ -2,10 +2,10 @@ import React from "react";
 
 function Getstarted() {
   return (
-    <section>
+    <section className=" mt-6 sm:mt-8">
       <div className="container-wrapper">
         <div className=" text-center">
-          <h1 className=" text-2xl sm:text-4xl font-extrabold ">
+          <h1 className=" text-2xl sm:text-4xl font-extrabold mb-4 ">
             THERE ARE 2 WAYS TO GET STARTED
           </h1>
         </div>
