@@ -16,17 +16,23 @@ function About() {
         </p>
       </div>
       <div className=" mt-16 text-center relative z-10">
-        <img src="images/kick-t.png" alt="" className=" absolute top-0 z-0 center-div2 " />
+        <img
+          src="images/kick-t.png"
+          alt=""
+          className=" absolute top-0 z-0 center-div2 "
+        />
         <div>
-        <h1 className=" text-4xl font-extrabold text pt-10">ABOUT KiX</h1>
+          <h1 className=" text-4xl font-extrabold text pt-10">ABOUT KiX</h1>
 
-        <p className=" text-[22px] font-normal sm:max-w-5xl w-[90%] sm:w-full mx-auto mt-7 ">
-        Do you love crypto, trading and sports, but want something SIMPLE & FUN? <br />
-Then welcome to KiX, a Football DEX where traders can buy and sell tokens representing  <br /> the world's most exciting football stars and earn winnings based on their real-world <br /> match performances. KiX is Alpha Testing on the Polygon Testnet NOW.
-
-        </p>
+          <p className=" text-[22px] font-normal sm:max-w-5xl w-[90%] sm:w-full mx-auto mt-7 ">
+            Do you love crypto, trading and sports, but want something SIMPLE &
+            FUN? <br />
+            Then welcome to KiX, a Football DEX where traders can buy and sell
+            tokens representing  <br /> the world's most exciting football stars
+            and earn winnings based on their real-world <br /> match
+            performances. KiX is Alpha Testing on the Polygon Testnet NOW.
+          </p>
         </div>
-
       </div>
     </section>
   );
