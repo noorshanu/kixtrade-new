@@ -19,7 +19,7 @@ function Getstarted() {
             />
             <div className="bg-sec h-full">
               <div>
-                <a href="test.kix.digital" target="_blank"> 
+                <a href="https://test.kix.digital" target="_blank"> 
                 <img src="images/logo-start.png" alt="" className="my-4" />
                 </a>
                 
@@ -35,7 +35,7 @@ function Getstarted() {
 
                 <div className=" mt-6">
                   <a
-                    href="/"
+                    href="https://test.kix.digital" target="_blank"
                     className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end gap-2 items-center w-[220px] text-center ml-auto"
                   >
                     {" "}
@@ -68,7 +68,7 @@ function Getstarted() {
 
                 <div className=" mt-14">
                   <a
-                    href="/"
+                href="https://zealy.io/c/kixdigital" target="_blank"
                     className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end items-center w-[220px] gap-2 text-center ml-auto"
                   >
                     {" "}
