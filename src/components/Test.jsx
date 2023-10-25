@@ -5,10 +5,10 @@ function Test() {
     <section className="test-bg relative container-wrapper">
       
       <div className="flex justify-end gap-5 items-center flex-col sm:flex-row">
-        <div>
-          <img src="images/test-mg.png" alt="" className="w-[100%] h-full" />
+        <div className="w-full">
+          <img src="images/test-mg.png" alt="" className="w-[800px] h-full" />
         </div>
-        <div className="bg-grad3 w-auto sm:w-[600px] p-[2px] m-2 sm:mr-[10%]  ">
+        <div className="bg-grad3 w-auto xl:w-[750px] lg:w-auto sm:w-[600px] p-[2px] m-2 sm:mr-[10%]  ">
           <div className="bg-sec h-full">
             <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
             <h3 className="text-xl font-bold py-2">KiX Trade-athon starts on Friday 3rd November.</h3>
