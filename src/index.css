@@ -4,6 +4,15 @@
 @tailwind utilities;
 
 
+
+@layer base {
+
+
+  .container-wrapper {
+    @apply max-w-[1224px] w-[90%] mx-auto;
+  }
+}
+
 body{
   font-family: 'Work Sans', sans-serif;
   background-color: black;
