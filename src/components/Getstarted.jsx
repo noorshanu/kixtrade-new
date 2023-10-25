@@ -46,7 +46,7 @@ function Getstarted() {
             <img src="images/condown.png" alt=""  className=" mx-auto hidden sm:block"/>
         </div>
         <div className="text-center ">
-            <h2 className=" text-3xl font-extrabold uppercase"> MAKE YOUR CHOICE!</h2>
+            <h2 className=" text-3xl font-extrabold uppercase sm:mt-0 mt-6"> MAKE YOUR CHOICE!</h2>
         </div>
       </div>
     </section>
