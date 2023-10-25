@@ -1,0 +1,34 @@
+import React from "react";
+
+function About() {
+  return (
+    <section className=" mt-20">
+      <div>
+        <img src="images/logo-about.png" alt="" className="mx-auto" />
+      </div>
+      <div className=" text-center">
+        <h1 className=" text-4xl font-extrabold text pt-10">KiX TRADE-ATHON</h1>
+
+        <p className=" text-[22px] font-normal sm:max-w-4xl w-[90%] sm:w-full mx-auto mt-7 ">
+          KiX Trade-athon is coming soon, when YOU can claim 1000 FreeKiX game
+          tokens and use them to play for a share of 1,000,000 real $KiX on the
+          World’s Most Advanced Fantasy Football Trading Exchange..
+        </p>
+      </div>
+      <div className=" mt-16 text-center relative">
+        <div>
+        <h1 className=" text-4xl font-extrabold text pt-10">ABOUT KiX</h1>
+
+        <p className=" text-[22px] font-normal sm:max-w-5xl w-[90%] sm:w-full mx-auto mt-7 ">
+        Do you love crypto, trading and sports, but want something SIMPLE & FUN? <br />
+Then welcome to KiX, a Football DEX where traders can buy and sell tokens representing  <br /> the world's most exciting football stars and earn winnings based on their real-world <br /> match performances. KiX is Alpha Testing on the Polygon Testnet NOW.
+
+        </p>
+        </div>
+
+      </div>
+    </section>
+  );
+}
+
+export default About;
