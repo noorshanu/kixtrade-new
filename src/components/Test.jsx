@@ -2,33 +2,73 @@ import React from "react";
 
 function Test() {
   return (
-    <section className=" relative  w-full  h-full">
-      <img src="images/top-b.png" alt="" className=" top-0 absolute hidden sm:block w-full h-[100px]  " />
-      <img src="images/black-b.png" alt="" className=" bottom-0 absolute hidden sm:block h-[120px] w-full  " />
+    <section className=" relative  w-full  h-full mt-8 sm:mt-8">
       <div className="container-wrapper">
-        <div className="flex justify-between sm:gap-5 items-center flex-col sm:flex-row h-full w-full">
-          <div className="w-full  h-full">
-            <img src="images/test-img.png" alt="" />
-          </div>
-          <div className="bg-grad3 w-auto lg:w-auto  p-[2px] m-2 sm:ml-11 sm:mt-[7%] mt-2   ">
-            <div className="bg-sec h-full relative z-20">
-              <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>
-              <h3 className="text-xl font-bold py-2">
-                KiX Trade-athon starts on Friday 10th November.
-              </h3>
-              <p className=" text-sm font-semibold mb-3">
-                Entrants into the Trade-athon can join at any time before or
-                after that date and will qualify for 1000 $FreeKiX after
-                completing registration.
-              </p>
-              <p className=" text-sm font-semibold mb-8">
-                Entrants can build their chances of winning a share of the prize
-                fund by completing tasks set on the KiX Zealy platform which
-                opens on Wednesday 24th October.
-              </p>
+        <div className=" text-center">
+          <h1 className="text-2xl sm:text-4xl font-extrabold text pt-4  sm:pt-8 pb-7">
+            TRADE-ATHON TIMINGS
+          </h1>
+        </div>
+        <div className="bg-grad3  p-[2px] ">
+          <div className="bg-sec">
+        
+            <div class="w-full mx-auto table-1">
+              <table class="w-full">
+                <tbody>
+                  <tr className=" py-4 my-4 flex flex-col flex-no wrap sm:table-row">
+                    <td class="py-2 px-4 w-[350px]">
+                      {" "}
+                      <h1 className="text-[22px] font-normal text-center">
+                        Tue 23 October
+                      </h1>
+                    </td>
+                    <td class="py-2 px-4">
+                      <div className="text-[22px] font-normal max-w-2xl mb-4">
+                        <p>
+                          Onboarding - directly on KiX Test Site or through
+                          Zealy
+                        </p>
+                        <p> 1,000 FreeKiX for all completing registration</p>
+                        <p>Practice Trading available</p>
+                        <p>100,000 $KiX Zealy Quest Prize Fund active</p>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr className="flex flex-col flex-no wrap sm:table-row">
+                    <td class="py-2 px-4">
+                      <h1 className="text-[22px] font-normal text-center">
+                        Wed 8 November
+                      </h1>
+                    </td>
+                    <td class="py-2 px-4">
+                      {" "}
+                      <div className="text-[22px] font-normal max-w-xl mb-4">
+                        <p>All Practice Trades reset</p>
+                        <p> 1,000 FreeKiX reset in all wallets</p>
+                      </div>
+                    </td>
+                  </tr>
 
-              <p className="text-[#FFC200] text-xl">Terms & Conditions</p>
+                  <tr className="flex flex-col flex-no wrap sm:table-row">
+                    <td class="py-2 px-4">
+                    <h1 className="text-[22px] font-normal text-center">Fri 10 November</h1>
+                    </td>
+                    <td class="py-2 px-4">
+                      {" "}
+                      <div className="text-[22px] font-normal max-w-xl mb-4">
+                <p>KiX Trade-athon Begins</p>
+                <p>Live Trading & Game Group Winnings</p>
+                <p> 900,000 $KiX Trading Prize Fund active</p>
+                <p>1,000,000 $KiX Zealy Quest Prize Fund continues</p>
+              </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
+            <p className="text-[#FFC200] text-xl text-center">
+              Terms & Conditions
+            </p>
           </div>
         </div>
       </div>

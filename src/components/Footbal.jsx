@@ -2,14 +2,16 @@ import React from 'react'
 
 function Footbal() {
   return (
-    <section className='football-bg'>
-        <div className='container-wrapper'>
-            <div className='flex justify-between items-end '>
-                <img src="images/hero-up.png" alt="" className='mx-auto mt-[7%]' />
-
-            </div>
+    <section className=' -mt-[5rem]'>
+      <div className='relative -z-[2]'>
+        <div className='center-div2 top-[58%]'>
+          <img src="images/hero-up.png" alt="" />
 
         </div>
+      <img src="images/football-stad.png" alt="" className='w-full h-[100%]'/>
+      </div>
+      
+        
     </section>
   )
 }
