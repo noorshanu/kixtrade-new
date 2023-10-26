@@ -2,12 +2,14 @@ import React from "react";
 
 function Test() {
   return (
-    <section className="test-bg relative  w-full  h-full">
+    <section className=" relative  w-full  h-full">
       <img src="images/top-b.png" alt="" className=" top-0 absolute hidden sm:block w-full h-[100px]  " />
       <img src="images/black-b.png" alt="" className=" bottom-0 absolute hidden sm:block h-[120px] w-full  " />
       <div className="container-wrapper">
-        <div className="flex sm:gap-5 items-center flex-col sm:flex-row h-full w-full">
-          <div className="w-full  h-full"></div>
+        <div className="flex justify-between sm:gap-5 items-center flex-col sm:flex-row h-full w-full">
+          <div className="w-full  h-full">
+            <img src="images/test-img.png" alt="" />
+          </div>
           <div className="bg-grad3 w-auto lg:w-auto  p-[2px] m-2 sm:ml-11 sm:mt-[7%] mt-2   ">
             <div className="bg-sec h-full relative z-20">
               <h1 className=" text-4xl font-extrabold py-3">TEST DURATION</h1>

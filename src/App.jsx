@@ -6,6 +6,7 @@ import Getstarted from "./components/Getstarted";
 import Test from "./components/Test";
 
 import NewAbout from "./components/NewAbout";
+import Footbal from "./components/Footbal";
 
 function App() {
   return (
@@ -25,6 +26,10 @@ function App() {
             <h2 className=" text-3xl font-extrabold uppercase sm:mt-0 mt-8"> MAKE YOUR CHOICE!</h2>
         </div>
       <Test />
+
+      <div className="py-0 sm:py-2">
+     <Footbal/>
+      </div>
 
       <div className="py-7 sm:py-2">
         <Footer />

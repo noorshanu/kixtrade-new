@@ -24,12 +24,12 @@ function Getstarted() {
                 </a>
                 
 
-                <p className=" text-base font-normal">
+                <p className=" text-base sm:text-[22px] font-normal lh-1_3">
                   Jump straight into the{" "}
                   <span className=" font-bold">KiX Test Platform</span> <br />{" "}
                   now and use our <span className=" font-bold">FAQs</span> to
-                  join up and learn <br /> how to play. You might prefer this if
-                  you were part of our previous tests and are <br /> already
+                  join up and learn  how to play. You might prefer this if
+                  you were part of our previous tests and are already
                   registered.
                 </p>
 
@@ -58,11 +58,11 @@ function Getstarted() {
                 <img src="images/zely.svg" alt="" className="my-4" />
                 </a>
                
-                <p className="text-base font-normal">
+                <p className="text-base sm:text-[22px] font-normal lh-1_3">
                   Use the{" "}
                   <span className=" font-bold">KiX Zealy Quest Manager</span> to
-                  be <br /> guided through registration AND to{" "}
-                  <span className=" font-bold">earn XP</span> <br /> which will
+                  be guided through registration AND to{" "}
+                  <span className=" font-bold">earn XP</span> which will
                   build YOUR chances of Winning!
                 </p>
 
