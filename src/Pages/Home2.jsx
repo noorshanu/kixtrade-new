@@ -6,12 +6,15 @@ import Getstarted from '../components/Getstarted'
 import Test from '../components/Test'
 import Footbal from '../components/Footbal'
 import Footer from '../components/Footer'
+import { useParams } from 'react-router-dom';
 
 function Home2() {
+  
   return (
     <>
     <Hero />
        <div className=" py-4 sm:py-2">
+       
        <NewAbout/>
        </div>
        <div className="py-4 sm:py-2">
