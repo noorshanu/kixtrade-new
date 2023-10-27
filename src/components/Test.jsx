@@ -59,7 +59,7 @@ function Test() {
                 <p>KiX Trade-athon Begins</p>
                 <p>Live Trading & Game Group Winnings</p>
                 <p> 900,000 $KiX Trading Prize Fund active</p>
-                <p>1,000,000 $KiX Zealy Quest Prize Fund continues</p>
+                <p>1,000,00 $KiX Zealy Quest Prize Fund continues</p>
               </div>
                     </td>
                   </tr>
