@@ -9,7 +9,7 @@ function Rewards() {
         </h1>
         <p className=" text-base sm:text-[22px] font-normal sm:max-w-5xl w-[90%] sm:w-full mx-auto mt-8 lh-1_4 ">
           Qualified entrants who connect their crypto-wallet to the KiX Test
-          platform will be able to claim 1000 FreeKiX tokens and then play for a
+          platform will be able to claim 1,000 FreeKiX tokens and then play for a
           share of 1,000,000 $KiX tokens
           <br /> in the KiX game.
         </p>
