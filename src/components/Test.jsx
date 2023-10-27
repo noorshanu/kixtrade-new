@@ -15,7 +15,7 @@ function Test() {
             <div class="w-full mx-auto table-1">
               <table class="w-full">
                 <tbody>
-                  <tr className=" py-4 my-4 flex flex-col flex-no wrap sm:table-row">
+                  <tr className=" py-4 my-4 flex flex-col flex-no wrap sm:table-row border-b border-[#00000042]">
                     <td class="py-2 px-4 w-[350px]">
                       {" "}
                       <h1 className="text-[22px] font-normal text-center">
@@ -34,7 +34,7 @@ function Test() {
                       </div>
                     </td>
                   </tr>
-                  <tr className="flex flex-col flex-no wrap sm:table-row">
+                  <tr className="flex flex-col flex-no wrap sm:table-row border-b border-[#00000042]">
                     <td class="py-2 px-4">
                       <h1 className="text-[22px] font-normal text-center">
                         Wed 8 November
@@ -49,7 +49,7 @@ function Test() {
                     </td>
                   </tr>
 
-                  <tr className="flex flex-col flex-no wrap sm:table-row">
+                  <tr className="flex flex-col flex-no wrap sm:table-row border-b border-[#00000042]">
                     <td class="py-2 px-4">
                     <h1 className="text-[22px] font-normal text-center">Fri 10 November</h1>
                     </td>
@@ -66,9 +66,12 @@ function Test() {
                 </tbody>
               </table>
             </div>
+            <a href="https://docs.google.com/document/d/1GKZVvKESnomDOAVn-w6a6SbojloBdX6ZduWteLmIbuQ/edit">
             <p className="text-[#FFC200] text-xl text-center">
               Terms & Conditions
             </p>
+            </a>
+           
           </div>
         </div>
       </div>
