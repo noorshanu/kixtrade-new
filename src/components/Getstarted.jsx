@@ -25,8 +25,8 @@ function Getstarted() {
                 
 
                 <p className=" text-base sm:text-[22px] font-normal lh-1_3">
-                  Jump straight into the{" "}
-                  <span className=" font-bold">KiX Test Platform</span> <br />{" "}
+                  {" "}
+                  <span className=" font-bold">Jump straight into the KiX Test Platform</span> <br />{" "}
                   now and use our <span className=" font-bold">FAQs</span> to
                   join up and learn  how to play. You might prefer this if
                   you were part of our previous tests and are already
