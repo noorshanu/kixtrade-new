@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footbal() {
   return (
-    <section className=' -mt-[5rem]'>
+    <section className=' -mt-[1rem] sm:-mt-[5rem]'>
       <div className='relative -z-[2]'>
         <div className='center-div2 top-[58%]'>
           <img src="images/hero-up.png" alt="" />
