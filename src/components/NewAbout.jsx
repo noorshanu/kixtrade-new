@@ -23,7 +23,7 @@ function NewAbout() {
         <img
           src="images/kick-t.png"
           alt=""
-          className=" absolute top-0 z-0 center-div2 opacity-[0.23] "
+          className=" absolute top-0 z-0 center-div2  "
         />
         <div>
           <h1 className=" text-2xl sm:text-4xl font-extrabold text pt-10">
