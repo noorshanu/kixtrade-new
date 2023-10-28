@@ -12,7 +12,7 @@ function NewAbout() {
         </h1>
 
         <p className=" text-base sm:text-[22px] font-normal sm:max-w-4xl w-[90%] sm:w-full mx-auto mt-7 lh-1_4">
-          <strong>KiX Trade-athon</strong> s starting soon and YOU can claim 1,000 FreeKiX points NOW so you’re ready to {" "}
+          <strong>KiX Trade-athon</strong> is starting soon and YOU can claim 1,000 FreeKiX points NOW so you’re ready to {" "}
           <strong>play for a share of 1 MILLION real $KiX</strong> on the{" "}
           <strong>
             World’s Most Advanced Live Football Gaming Platform
@@ -34,11 +34,10 @@ function NewAbout() {
             Do you love Football, Gaming and Sports Stats?
           </p>
           <p className=" text-base sm:text-[22px] font-normal sm:max-w-5xl w-[90%] sm:w-full mx-auto mt-7 lh-1_4 ">
-            Then welcome to <strong>KiX</strong> , a Live Football Game where players can buy and
+            Then welcome to <strong>KiX</strong>, a Live Football Game where players can buy and
             sell digital assets representing the world's most exciting football
             stars and compete to win the game based on their real-world match
-            performances. KiX is Alpha Testing on the Polygon Testnet NOW and <strong> Trade-athon</strong>
-            is our biggest and best game yet!
+            performances. KiX is Alpha Testing on the Polygon Testnet NOW and <strong> Trade-athon</strong> is our biggest and best game yet!
           </p>
         </div>
       </div>

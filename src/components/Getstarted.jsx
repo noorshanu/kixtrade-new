@@ -63,7 +63,7 @@ function Getstarted() {
                   <span className=" font-bold">KiX Zealy Quest Manager</span> to
                   be guided through registration AND to{" "}
                   <span className=" font-bold">earn XP</span> which will
-                  build YOUR chances of Winning!
+                  build YOUR chances of Success!
                 </p>
 
                 <div className=" mt-14">

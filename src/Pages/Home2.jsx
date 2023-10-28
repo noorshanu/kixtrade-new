@@ -7,6 +7,7 @@ import Test from '../components/Test'
 import Footbal from '../components/Footbal'
 import Footer from '../components/Footer'
 import { useParams } from 'react-router-dom';
+import Disclaimer from '../components/v1/Disclaimer'
 
 function Home2() {
   
@@ -35,6 +36,10 @@ function Home2() {
  
        <div className="py-7 sm:py-2">
          <Footer />
+<div className='py-4'>
+
+         <Disclaimer/>
+</div>
        </div>
    </>
   )

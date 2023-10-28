@@ -23,7 +23,7 @@ function Test() {
                       </h1>
                     </td>
                     <td class="py-2 px-4">
-                      <div className="text-[22px] font-normal max-w-2xl mb-4">
+                      <div className=" text-base text-[22px] font-normal max-w-2xl mb-4 pr-2">
                         <p>
                           Onboarding - directly on KiX Test Site or through
                           Zealy
@@ -42,7 +42,7 @@ function Test() {
                     </td>
                     <td class="py-2 px-4">
                       {" "}
-                      <div className="text-[22px] font-normal max-w-xl mb-4">
+                      <div className=" text-base text-[22px] font-normal max-w-xl mb-4">
                         <p>All Practice Trades reset</p>
                         <p> 1,000 FreeKiX reset in all wallets</p>
                       </div>
@@ -55,7 +55,7 @@ function Test() {
                     </td>
                     <td class="py-2 px-4">
                       {" "}
-                      <div className="text-[22px] font-normal max-w-xl mb-4">
+                      <div className=" text-base text-[22px] font-normal max-w-xl mb-4">
                 <p>KiX Trade-athon Begins</p>
                 <p>Live Trading & Game Group Winnings</p>
                 <p> 900,000 $KiX Trading Prize Fund active</p>
