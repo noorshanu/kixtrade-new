@@ -2,7 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
-    <section className="hero relative">
+    <section className="hero relative pt-8">
       <div className="container-wrapper relative">
         <img src="images/open2.png" alt="" className=" absolute top-[20%] sm:top-[24%] left-[12%]  sm:left-[5%] h-[133px] sm:h-[230px] " />
         <img src="images/freeplay2.png " alt="" className=" absolute top-[20%] sm:right-[2%] right-[12%] h-[133px] sm:h-[230px]  " />
