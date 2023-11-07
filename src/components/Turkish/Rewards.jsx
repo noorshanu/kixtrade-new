@@ -15,7 +15,7 @@ function Rewards() {
         </p>
 
         <img
-          src="images/100k2.png"
+          src="images/100k3.png"
           alt=""
           className=" mx-auto mt-0 sm:-mt-12"
         />
