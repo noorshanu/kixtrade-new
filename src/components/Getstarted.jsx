@@ -4,7 +4,7 @@ function Getstarted() {
   return (
     <section className=" mt-6 sm:mt-2">
       <div className="container-wrapper">
-        <div className=" text-center">
+        <div className=" text-center" id="enter">
           <h1 className=" text-2xl sm:text-4xl font-extrabold mb-4 ">
             THERE ARE 2 WAYS TO GET STARTED
           </h1>
@@ -33,8 +33,8 @@ function Getstarted() {
                   registered.
                 </p>
 
-                <div className=" mt-6">
-                  <a
+                <div className=" mt-6" >
+                  <a 
                     href="https://test.kix.digital" target="_blank"
                     className=" bg-grad2 text-2xl font-bold px-10 py-2 flex justify-end gap-2 items-center w-[220px] text-center ml-auto"
                   >

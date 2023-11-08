@@ -12,7 +12,8 @@ function Hero() {
           alt=""
           className=" object-cover mx-auto h-[89%]  center-div z-30 -mt-[60px] "
         />
-        <img src="images/100k.png" alt="" className="mx-auto relative z-20 h-[120px] sm:h-auto" />
+        <a href="#enter" className=" cursor-pointer relative z-50">
+        <img src="images/100k.png" alt="" className="mx-auto relative z-20 h-[120px] sm:h-auto" /></a>
        
       </div>
       <img
