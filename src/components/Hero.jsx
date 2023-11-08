@@ -10,9 +10,9 @@ function Hero() {
         <img
           src="images/player.png"
           alt=""
-          className=" object-cover mx-auto  center-div z-0"
+          className=" object-cover mx-auto h-[85%]  center-div z-0 "
         />
-        <img src="images/100k.png" alt="" className="mx-auto relative z-20" />
+        <img src="images/100k.png" alt="" className="mx-auto relative z-20 h-[20%] sm:h-auto" />
        
       </div>
       <img
