@@ -4,7 +4,7 @@ function Getstarted() {
   return (
     <section className=" mt-6 sm:mt-8">
       <div className="container-wrapper">
-        <div className=" text-center">
+        <div className=" text-center" id="hithere">
           <h1 className=" text-2xl sm:text-4xl font-extrabold mb-4 ">
           Başlamanın 2 Yolu Var!
           </h1>
@@ -27,7 +27,7 @@ function Getstarted() {
                 <p className=" text-base sm:text-[22px] font-normal lh-1_3">
                   {" "}
                   <span className=" font-bold">Şimdi doğrudan KiX Test Platformuna </span> <br />{" "}
-                  tlayın ve kaydolmak ve nasıl oynandığını öğrenmek için  <span className=" font-bold">FAQs</span>  'lerimizi kullanın. Daha önceki testlerimizin bir parçası olduysanız ve zaten kayıtlıysanız bunu tercih edebilirsiniz.
+                  tiklayin ve kaydolmak ve nasıl oynandığını öğrenmek için  <span className=" font-bold">FAQs</span>  'lerimizi kullanın. Daha önceki testlerimizin bir parçası olduysanız ve zaten kayıtlıysanız bunu tercih edebilirsiniz.
                 </p>
 
                 <div className=" mt-6">

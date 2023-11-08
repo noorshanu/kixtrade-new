@@ -13,17 +13,17 @@ function Rewards() {
           oyununda 1 MİLYON $KiX tokendan pay almak
           <br />  için oynayabilecekler.
         </p>
-
+        <a href="#hithere" className=" cursor-pointer relative z-50">
         <img
           src="images/100k3.png"
           alt=""
           className=" mx-auto mt-0 sm:-mt-12"
-        />
+        /> </a>
         <div className="">
           <img
             src="images/bg-main2.png"
             alt=""
-            className="w-full -mt-[5rem] sm:-mt-[12rem]"
+            className="w-full -mt-[5rem] sm:-mt-[7rem]"
           />
         </div>
       </div>
