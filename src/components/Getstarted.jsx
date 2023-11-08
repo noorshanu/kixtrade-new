@@ -2,7 +2,7 @@ import React from "react";
 
 function Getstarted() {
   return (
-    <section className=" mt-6 sm:mt-8">
+    <section className=" mt-6 sm:mt-2">
       <div className="container-wrapper">
         <div className=" text-center">
           <h1 className=" text-2xl sm:text-4xl font-extrabold mb-4 ">
