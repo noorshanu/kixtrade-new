@@ -8,9 +8,9 @@ function Hero() {
         <img src="images/freeplay2.png " alt="" className=" absolute top-[20%] sm:right-[2%] right-[12%] h-[133px] sm:h-[230px]  " />
         <img src="images/hero-up2.png" alt="" className=" mx-auto" />
         <img
-          src="images/player3.png"
+          src="images/player.png"
           alt=""
-          className=" object-cover mx-auto  center-div z-0"
+          className=" object-cover mx-auto h-[89%]  center-div z-30 -mt-[60px] "
         />
         <a href="#hithere" className=" relative z-50">
         <img src="images/100k4.png" alt="" className="mx-auto relative z-20 mt-32 sm:mt-56" /></a>
