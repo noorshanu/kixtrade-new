@@ -10,7 +10,7 @@ function Hero() {
         <img
           src="images/player.png"
           alt=""
-          className=" object-cover mx-auto h-[89%]  center-div z-30 -mt-[60px] "
+          className=" object-cover mx-auto h-[72%] sm:h-[89%]  center-div z-30 sm:-mt-[60px] -mt-0 "
         />
         <a href="#hithere" className=" relative z-50">
         <img src="images/100k4.png" alt="" className="mx-auto relative z-20 mt-32 sm:mt-56" /></a>
