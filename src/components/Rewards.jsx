@@ -13,10 +13,10 @@ function Rewards() {
           share of 1,000,000 $KiX tokens
           <br /> in the KiX game.
         </p>
-
-        <img src="images/100k2.png" alt="" className=" mx-auto mt-0 sm:-mt-12" />
+<a href="#enter">
+        <img src="images/100k2.png" alt="" className=" mx-auto mt-0 sm:-mt-12" /></a>
         <div className=""> 
-        <img src="images/bg-main2.png" alt=""  className="w-full -mt-[5rem] sm:-mt-[12rem]" />
+        <img src="images/bg-main2.png" alt=""  className="w-full -mt-[5rem] sm:-mt-[7rem]" />
 
         </div>
       </div>

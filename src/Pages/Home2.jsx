@@ -3,7 +3,7 @@ import Hero from '../components/Hero'
 import NewAbout from '../components/v1/NewAbout'
 import Rewards from '../components/v1/Rewards'
 import Getstarted from '../components/Getstarted'
-import Test from '../components/Test'
+import Test from '../components/v1/Test'
 import Footbal from '../components/Footbal'
 import Footer from '../components/Footer'
 import { Helmet } from "react-helmet";
