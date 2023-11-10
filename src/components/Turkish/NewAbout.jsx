@@ -12,7 +12,7 @@ function NewAbout() {
         </h1>
         
         <p className=" text-base sm:text-[22px] font-normal sm:max-w-4xl w-[90%] sm:w-full mx-auto mt-7 lh-1_4">
-          <strong>KiX Trade-athon</strong> AÇIK ve ŞİMDİ 1.000 FreeKiX oyun jetonunu talep ederek 1 MİLYON gerçek $KiX payı! - Karşılığında{" "}
+          <strong>KiX Trade-athon</strong> SIMDI CANLI!! 1.000 FreeKIX tokeni talep ederek 1 Milyon adet $KIX ödül havuzundan faydalanın! - Karşılığında 
           <strong>Dünyanın En Gelişmiş Fantezi Futbol Ticaret Borsasında oynayabilirsiniz.</strong> 
         </p>
       </div>
